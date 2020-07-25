@@ -66,7 +66,7 @@ and how close are they to one another?
 CA\](<a href="https://github.com/NetGary0430/Coursera_Capstone/Temcula.png" class="uri">https://github.com/NetGary0430/Coursera_Capstone/blob/master/Temecula.png</a>)
 
 !\[Portland,
-OR\](<a href="https://github.com/NetGary0430/Coursera_Capstone/Portland.png" class="uri">https://github.com/NetGary0430/Coursera/Capstone/blob/master/Portland.png</a>)
+OR\](<a href="https://github.com/NetGary0430/Coursera_Capstone/Portland.png" class="uri">https://github.com/NetGary0430/Coursera_Capstone/blob/master/Portland.png</a>)
 
 I further used the data frames and the Foursquare API to download venue
 information about each location. I used Python code to total up the
