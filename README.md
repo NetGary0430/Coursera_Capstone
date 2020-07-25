@@ -114,8 +114,8 @@ From a performing arts perspective, given the size of the Temecula area
 versus that of Portland, I was not surprised that there were more
 cultural-related venues such as museums and performing arts locations.
 
-!\[Portland,
-OR\](<a href="https://github.com/NetGary0430/Coursera_Capstone/Portland_tbl.png" class="uri">https://github.com/NetGary0430/Coursera\_Capstone/Portland\_tbl.png</a>)
+!\[Temecula,
+OR\](<a href="https://github.com/NetGary0430/Coursera_Capstone/Portland_tbl.png" class="uri">https://github.com/NetGary0430/Coursera_Capstone/blob/master/Temecula_tbl.PNG</a>)
 
 **Discussion**
 
