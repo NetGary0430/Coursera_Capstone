@@ -99,7 +99,7 @@ a mixture of both dine-in restaurants and smaller "joint" types of fast
 food.
 
 !\[Portland,
-OR\](<a href="https://github.com/NetGary0430/Coursera_Capstone/Temecula_tbl.png" class="uri">https://github.com/NetGary0430/Coursera\_Capstone/Temecula\_tbl.png</a>)
+OR\](<a href="https://github.com/NetGary0430/Coursera_Capstone/Temecula_tbl.png" class="uri">https://github.com/NetGary0430/Coursera_Capstone/blob/master/Portland_tbl.PNG</a>)
 
 Portland, OR, on the other hand, while having its fair share of dining
 options, had fewer options than its more southern neighbor. I also
