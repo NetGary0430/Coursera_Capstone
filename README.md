@@ -1,5 +1,4 @@
-Relocating with Foursquare
-==========================
+# Relocating with Foursquare
 
 **Introduction**:
 
@@ -159,3 +158,4 @@ would like in such a varying degree was reassuring.
 
 My choice was to take the Temcula, CA position, but live outside of
 Temecula in Riverside, CA.
+
