@@ -63,7 +63,7 @@ a sense of the "busy-ness" of an area - how many cities are on the map
 and how close are they to one another?
 
 !\[Temecula,
-CA\](<a href="https://github.com/NetGary0430/Coursera_Capstone/Temcula.png" class="uri">https://github.com/NetGary0430/Coursera_Capstone/blob/master/Temecula.png</a>)
+CA\](<a href="https://github.com/NetGary0430/Coursera_Capstone/Temcula.png" class="uri">https://github.com/NetGary0430/Coursera_Capstone/blob/master/Temecula.png?raw=true</a>)
 
 !\[Portland,
 OR\](<a href="https://github.com/NetGary0430/Coursera_Capstone/Portland.png" class="uri">https://github.com/NetGary0430/Coursera_Capstone/blob/master/Portland.png</a>)
