@@ -65,7 +65,7 @@ and how close are they to one another?
 !\[Temecula,
 CA\](<a href="https://github.com/NetGary0430/Coursera_Capstone/Temcula.png" class="uri">https://github.com/NetGary0430/Coursera_Capstone/blob/master/Temecula.png</a>)
 
-!\[Temecula, CA\](Temecula.png?raw=True)
+!\[Temecula, CA\](./Temecula.png?raw=True)
 
 !\[Portland,
 OR\](<a href="https://github.com/NetGary0430/Coursera_Capstone/Portland.png" class="uri">https://github.com/NetGary0430/Coursera_Capstone/blob/master/Portland.png</a>)
